@@ -15,7 +15,10 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-frh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/frh-alshaalan-2670aa217)
 
+
+
 ### :hammer_and_wrench: Languages and Tools :
+---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -23,6 +26,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     
 </div>
+
+
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frh0&show_icons=true&theme=cobalt)

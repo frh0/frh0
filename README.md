@@ -39,8 +39,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm frh</h1>
-<h3 align="center">trainee as a Software developer at apple academy , I love to read as much as I love to swim :) I also like to code and try new codes</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frh0&label=Profile%20views&color=0e75b6&style=flat" alt="frh0" /> </p>
 

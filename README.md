@@ -38,7 +38,7 @@
 
 
 
-
+https://github-profile-trophy.vercel.app/?username=frh0ryo-ma&theme=darkhub
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frh0&label=Profile%20views&color=0e75b6&style=flat" alt="frh0" /> </p>

@@ -37,7 +37,7 @@
 
 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
+https://github-profile-trophy.vercel.app/?username=frh0ryo-ma&theme=discord
 
 
 

@@ -37,7 +37,6 @@
 
 
 
-https://github-profile-trophy.vercel.app/?username=frh0ryo-ma&theme=discord
 
 
 
